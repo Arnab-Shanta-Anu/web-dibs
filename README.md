@@ -1,2 +1,0 @@
-# web-dibs
-html,cssandjs
